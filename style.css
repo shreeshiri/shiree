@@ -1,0 +1,125 @@
+/* siri style */
+#head img {
+    height: 150px;
+    width:auto;
+}
+#head {
+    color: white;
+}
+#head h1{
+    font-size: 4rem;
+}
+#head h3 {
+    font-size: 1.8rem;
+}
+.siri {
+    background-color: rgb(163, 180, 62);
+}
+/*---skills--*/
+#skills {
+    margin: 75px;
+}
+#skills svg.svg.-inline--fa {
+    font-size: 5rem;
+    margin: auto;
+    color: rgb(35, 68, 2);
+    margin: 10px;
+}
+#skills svg.svg.-inline--fa:hover {
+    color: royalblue!important;
+    font-size: 5.2rem;
+}
+
+/*---about me---*/
+#aboutme {
+    margin-top: 75px;
+}
+#aboutme p {
+    font-size: 20px;
+    margin-top: 15px;
+    font-style: italic;
+}
+/*---project show--*/
+
+.cap1 h3 {
+    color: rgb(35, 68, 2);
+}
+.cap1 p {
+    color: goldenrod;
+    font-size: 1.1rem;
+    font-style: italic;
+}
+.carousel-indicators li {
+    display: none;
+
+}
+#projectshow img {
+    width: 100%;
+    height: 400px;
+    padding: 30px 0;
+
+}
+.cap1 {
+    margin-top: 15px;
+}
+/* Qualification */
+
+#Qualifications {
+    margin-top: 30px;
+    text-align: center;
+}
+#Qualifications h1 {
+    font-size: 2.5rem;
+    text-decoration-line: orange;
+    color: greenyellow;
+
+}
+#Qualifications h3 {
+    font-size: 1.5rem;
+    text-decoration: dotted;
+    color: orchid;
+    
+}
+#Qualifications h4 {
+    font-size: 1rem;
+    font-style: italic;
+    color: orange;
+    
+}
+#Qualifications h5 {
+    font-size: 1rem;
+    font-style: bold;
+    color: brown;
+    
+}
+.carousel-inner h2 {
+    color: orangered;
+    font-style: bold;
+}
+/* cards */
+
+#contactme .card {
+    margin-top: 50px;
+    box-shadow: 1px 1px 1px gray;
+
+
+}
+#contactme {
+    margin-top: 50px;
+
+}
+.card-header {
+    background-color: rgb(19, 88, 5);
+    color: rgb(11, 223, 11);
+    font-size: 1.1rem
+}
+#card-body  p {
+    font-size: 1.1rem;
+    color: black;
+
+}
+#blockquote-footer {
+    font-size: 1.2rem;
+    color: peru;
+}
+
